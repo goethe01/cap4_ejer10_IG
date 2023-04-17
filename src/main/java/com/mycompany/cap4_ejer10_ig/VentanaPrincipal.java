@@ -222,6 +222,7 @@ public class VentanaPrincipal extends javax.swing.JFrame {
         txtNombres.setText(String.valueOf(""));
         txtPatrimonio.setText(String.valueOf(""));
         txtEstrato.setText(String.valueOf(""));
+        txtSalida.setText(String.valueOf(""));
         
     }//GEN-LAST:event_btnBorrarActionPerformed
 
